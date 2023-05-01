@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manikandan-ks-816aa2228/](https://www.linkedin.com/in/manikandan-ks-816aa2228/)
 <!--
 
 Here are some ideas to get you started:
